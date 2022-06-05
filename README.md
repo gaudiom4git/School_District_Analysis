@@ -16,7 +16,7 @@ school affected overall school, district and school type numbers.
 
 * Affect on District Summary:  
 	Percentage passing math, reading, and overall passing dropped slightly    
-	Check out [Thomas HS scores before NaN replaced](https://github.com/gaudiom4git/School_District_Analysis/blob/main/Resources/SchoolDistrictComparison.png)
+	Check out [Distict Summary Comparison](https://github.com/gaudiom4git/School_District_Analysis/blob/main/Resources/SchoolDistrictComparison.png)
    
 * Affect on School Summary:  
 	For Thomas high school, average math went down, average reading went up, passing math went up, passing reading went down, and overall passing dropped slightly.
