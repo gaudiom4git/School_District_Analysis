@@ -14,17 +14,17 @@ school affected overall school, district and school type numbers.
 
 ## Results
 
-=> Affect on District Summary:  
+* Affect on District Summary:  
 	Percentage passing math, reading, and overall passing dropped slightly    
 	Check out [Thomas HS scores before NaN replaced](https://github.com/gaudiom4git/School_District_Analysis/blob/main/Resources/SchoolDistrictComparison.png)
    
-=> Affect on School Summary:  
+* Affect on School Summary:  
 	For Thomas high school, average math went down, average reading went up, passing math went up, passing reading went down, and overall passing dropped slightly.
    
-=> How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?  
+* How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?  
 	This also didn't seem to change.  Thomas High School still ranked in the Top 5 Performing Schools
 	
-=> How does replacing the ninth-grade scores affect the following:
+* How does replacing the ninth-grade scores affect the following:
     Math and reading scores by grade:
     Scores by school spending:		Same bin, no change
     Scores by school size	 :		No change
